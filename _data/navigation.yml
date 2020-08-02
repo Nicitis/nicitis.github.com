@@ -4,9 +4,9 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
-  - title: "¿¬µµº° Æ÷½ºÆ®"
+  # - title: "About"
+  #   url: /about/
+  - title: "ì—°ë„ë³„ í¬ìŠ¤íŠ¸"
     url: /posts/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
